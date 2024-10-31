@@ -1,4 +1,5 @@
 # C. Savonen 2021
+# K. Miller 2024
 
 # See refinebio-py tutorials for more info:
 # https://alexslemonade.github.io/refinebio-py/quickstart.html
